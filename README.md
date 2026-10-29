@@ -2,6 +2,8 @@
 
 A serverless web app on AWS where people upload a photo of a found item, AI tags it automatically, and anyone can search for it by keyword.
 
+### Verification Code: WTC-YTNZSZBR
+
 **Live demo:** [http://lostfound-site-thato.s3-website-us-east-1.amazonaws.com]
 
 **Demo video:** [paste your video link here]
